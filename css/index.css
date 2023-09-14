@@ -1,0 +1,13 @@
+body {
+  background-color: var(--bg-color);
+}
+
+h1 {
+  font-size: var(--title-fs);
+  font-family: var(--title-ff);
+}
+
+p {
+  font-family: var(--p-ff);
+  font-size: var(--p-fs);
+}

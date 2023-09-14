@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Lobster+Two:ital@1&family=Roboto:wght@700&display=swap");
+:root {
+  --title-fs: 25px;
+  --subTitle-fs: 16px;
+  --p-fs: 18px;
+
+  --p-ff: "Lobster Two", cursive;
+  --title-ff: "Roboto";
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  align-content: end;
+  justify-content: end;
+}
+
+li {
+  padding: 5px;
+  padding-left: 20px;
+  text-align: right;
+}
